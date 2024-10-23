@@ -1,5 +1,5 @@
 <h1 align="center">Hello world!, I'm Christian S. Zambrano</h1>
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=analyst+and+software+developer;Active+learner%2FResearcher" alt="Typing SVG" /></a></p>
+<p align="center"><a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=analyst+and+software+developer;Active+learner%2FResearcher" alt="Typing SVG" /></a></p>
 
 # About Me:
 Software Analyst and Developer interested in creating effective and efficient solutions. I have experience in JavaScript, React.js, Python, and backend technologies such as Node.js and Express. I specialize in building applications that solve real problems. My knowledge of SQL and NoSQL databases, such as PostgreSQL and MongoDB, allows me to manage data optimally. I am always looking to learn more and collaborate on projects contributing innovation.
