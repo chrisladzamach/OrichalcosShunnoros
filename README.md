@@ -2,7 +2,7 @@
 <p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&width=900&lines=Software+analyst+and+developer+focused+on+building+efficient+solutions.;Passionate+about+creating+robust+applications+with+modern+technologies.;Experienced+in+both+backend+and+frontend%2C+specializing+in+Node.js+and+React.;Innovating+with+SQL+and+NoSQL+databases+for+dynamic+projects.;Constantly+learning+and+improving+my+programming+skills." alt="Typing SVG" /></a></p>
 
 # About Me:
-Software Analyst and Developer interested in creating effective and efficient solutions. I have experience in JavaScript, React.js, Python, and backend technologies such as Node.js and Express. I specialize in building applications that solve real problems. My knowledge of SQL and NoSQL databases, such as PostgreSQL and MongoDB, allows me to manage data optimally. I am always looking to learn more and collaborate on projects contributing innovation.
+Software Analyst and Developer interested in creating effective and efficient solutions. I have experience in JavaScript, React.js, Python, and backend technologies such as Node.js and Express. I specialize in building applications that solve real problems. My knowledge of SQL and NoSQL databases, such as PostgreSQL and MongoDB, allows me to manage data optimally. I'm always looking to learn more and collaborate on projects contributing innovation.
 
 
 # 💻 Tech Stack:
