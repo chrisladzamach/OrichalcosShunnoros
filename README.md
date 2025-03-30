@@ -56,10 +56,10 @@ Software Analyst and Developer interested in creating effective and efficient so
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 <br/>
 # 📊 GitHub Stats:
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=orichalcosshunnoros&show_icons=true&locale=en&theme=transparent&layout=donut" alt="orichalcosshunnoros" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrisladzamach&show_icons=true&locale=en&theme=transparent&layout=donut" alt="chrisladzamach" /></p>
 <br/>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=orichalcosshunnoros&show_icons=true&locale=en&theme=transparent" alt="orichalcosshunnoros" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=chrisladzamach&show_icons=true&locale=en&theme=transparent" alt="chrisladzamach" /></p>
 <br/>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=orichalcosshunnoros&theme=transparent" alt="orichalcosshunnoros" /></p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=orichalcosshunnoros&label=Profile%20views&color=0e75b6&style=flat" alt="orichalcosshunnoros" /> </p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisladzamach&theme=transparent" alt="chrisladzamach" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=chrisladzamach&label=Profile%20views&color=0e75b6&style=flat" alt="chrisladzamach" /> </p>
 
